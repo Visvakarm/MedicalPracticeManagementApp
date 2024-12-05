@@ -1,0 +1,1 @@
+C:\Users\Mark\source\repos\MedicalPracticeManagementApp\MedicalPracticeManagementApp\MedicalPracticeManagementApp..csproj;x64
